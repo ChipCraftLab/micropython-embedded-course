@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.mpy
+
+# Thonny / IDE configuration files
+.thonny/
+.vscode/
+.idea/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Scratch and temporary logs
+*.log
+*.tmp
+sensor_log.csv
+device_config.json
